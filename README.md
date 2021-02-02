@@ -1,5 +1,7 @@
 ## **Insignias**
 
+![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
+
 ---
 ## **Mi diario**
 
