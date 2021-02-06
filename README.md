@@ -31,3 +31,29 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 *   Resolver el problema de CORS
 *   Envío de email con SES en AWS
+
+---
+
+**Fecha**: 06/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Resuelto el problema de CORS
+*   Envío de email con SES en AWS
+*   Registro de usuarios en API
+*   Probar listado en front con más de 5000 registros
+
+**Próximos hitos**
+
+*   Proceso para resetear contraseña en API
+*   Proceso para cambiar la contraseña en API
+*   Mirar PDO para mejorar las queries de la API
+*   Seguridad en Apache2: no mostrar lista de archivos
+*   Crear directorio virtual en Apache
+*   Comprar dominio
+*   Comprar certificado SSL en AWS
+*   Envío de email con dominio en SES en AWS
+*   Añadir librería Moment
+*   Actualizar Prime Vue
