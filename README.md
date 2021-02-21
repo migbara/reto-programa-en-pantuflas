@@ -4,9 +4,13 @@
 
 ![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
 
+![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png)
+
+![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-nacar.png)
+
 ![](https://img.shields.io/badge/Pantufla_1-1/1-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
-![](https://img.shields.io/badge/Pantufla_2-3/5-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
+![](https://img.shields.io/badge/Pantufla_2-4/5-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
 ---
 ## **Mi diario**
@@ -80,4 +84,28 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 *   Envío de email con dominio en SES en AWS
 *   Añadir librería Moment
 *   Actualizar Prime Vue
+
+---
+
+**Fecha**: 21/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Comprado dominio
+*   Comprado certificado SSL en AWS aunque hay que poner otro en el EC2
+*   Envío de email con dominio en SES en AWS
+*   Añadida librería Moment
+*   Actualizado Prime Vue
+*   Realizados los dos retos propuestos para el primer LiveChallenge de Web Reactiva (¡conseguido badget Botón Malandriner!)
+*   Presentados los dos retos propuestos en directo (¡conseguido badget Botón de nácar!)
+
+**Próximos hitos**
+
+*   Mirar PDO para mejorar las queries de la API
+*   Crear directorio virtual en Apache
+*   Comprar certificado SSL para el EC2
+*   Arreglar problema al guardar caracteres no utf8 en BD
+*   Componente en VUE que guarde datos en BD
 
