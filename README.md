@@ -98,8 +98,8 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 *   Envío de email con dominio en SES en AWS
 *   Añadida librería Moment
 *   Actualizado Prime Vue
-*   Realizados los dos retos propuestos para el primer LiveChallenge de Web Reactiva (¡conseguido badget Botón Malandriner!)
-*   Presentados los dos retos propuestos en directo (¡conseguido badget Botón de nácar!)
+*   Realizados los dos retos propuestos para el primer LiveChallenge de Web Reactiva (¡conseguido badge Botón Malandriner!)
+*   Presentados los dos retos propuestos en directo (¡conseguido badge Botón de nácar!)
 
 **Próximos hitos**
 
