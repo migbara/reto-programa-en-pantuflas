@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
 
+![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png)
+
 ![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png)
 
 ![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-nacar.png)
@@ -109,3 +111,23 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 *   Arreglar problema al guardar caracteres no utf8 en BD
 *   Componente en VUE que guarde datos en BD
 
+---
+
+**Fecha**: 28/02/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Avanzamos con la estructura de APIs de subida
+*   Empiezo proyecto de APIs con CodeIgniter
+*   Desarrollando un módulo nuevo para el curro
+*   Visto casi el 1er proyecto de Vue3 en EscuelaVue
+*   Arreglado problema al guardar caracteres no utf8 en BD
+
+**Próximos hitos**
+
+*   Mirar PDO para mejorar las queries de la API
+*   Crear directorio virtual en Apache
+*   Comprar certificado SSL para el EC2
+*   Componente en VUE que guarde datos en BD
